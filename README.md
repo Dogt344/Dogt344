@@ -1,51 +1,29 @@
-# ¡Hola! 👋 Soy [Tu Nombre]
+# ¡Hola! 👋 Soy [Jose Sandoval]
 
-### Desarrollador de software | Apasionado por la tecnología
-
----
+<p align="center">
+  <img src="https://github.com/TuNombreUsuario/TuNombreUsuario/raw/main/banner.png" alt="Banner" />
+</p>
 
 ### Sobre mí
+
+<p style="color:blue;">Soy un desarrollador apasionado por la tecnología.</p>
 
 - 🎓 Ingeniero en [Tu Especialidad]
 - 💻 Trabajo principalmente con [Lenguajes y Tecnologías que Usas]
 - 🌱 Actualmente, estoy aprendiendo [Tecnología/Habilidad que Estás Aprendiendo]
-- 🎯 Me interesa [Tus Áreas de Interés o Proyectos Actuales]
-- 📫 Cómo contactarme: [Tu Correo Electrónico o Redes Sociales]
 
 ---
 
-### 🔧 Tecnologías y Herramientas
+<h2>🔧 Tecnologías y Herramientas</h2>
 
-- [Lista de Tecnologías y Herramientas que Dominas]
-- [Por ejemplo: JavaScript, Python, Git, Docker, etc.]
-
----
-
-### 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TuNombreUsuario&show_icons=true&theme=radical)
+<ul>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Git</li>
+</ul>
 
 ---
 
-### 🌟 Proyectos Destacados
+<h2>📈 Estadísticas de GitHub</h2>
 
-- [Proyecto 1](URL de tu proyecto) - Descripción breve de tu proyecto.
-- [Proyecto 2](URL de tu proyecto) - Descripción breve de tu proyecto.
-
----
-
-### 🌍 Encuéntrame en:
-
-- [LinkedIn](URL de tu LinkedIn)
-- [Twitter](URL de tu Twitter)
-- [Sitio Web Personal](URL de tu sitio web, si tienes uno)
-
----
-
-### ⚡ Frase motivadora
-
-_"Tu frase favorita o cita inspiradora aquí."_
-
----
-
-¡Gracias por visitar mi perfil! 🚀
+<img src="https://github-readme-stats.vercel.app/api?username=TuNombreUsuario&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
